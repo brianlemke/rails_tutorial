@@ -2,7 +2,7 @@
 
 /* variables */
 
-$grayMediumLight = #eaeaea;
+$grayMediumLight: #eaeaea;
 
 /* universal */
 
@@ -71,7 +71,7 @@ p {
   font-weight: bold;
   line-height: 1;
   &:hover {
-    color: $white
+    color: $white;
     text-decoration: none;
   }
 }
